@@ -5,7 +5,7 @@
 ---
 
 🧰 Toolbox
-<img src="https://worldvectorlogo.com/logo/css-3" width=50px>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=50px>
 
 ---
 
