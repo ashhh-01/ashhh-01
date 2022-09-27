@@ -9,7 +9,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodeJS" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" height="50" width="50"/>
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=radical)
 
 
 
