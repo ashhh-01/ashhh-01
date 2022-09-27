@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ashrith MR
-- 👀 I’m interested in Programming in Python & Datascience
+- 👋 Hi, <img src="https://i.pinimg.com/originals/b6/f2/bc/b6f2bca15c1b45ce15e10256184c183b.gif"> I’m Ashrith MR
+- 👀 Coding for Fun, I guess!
 - 🌱 I’m currently learning R programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
