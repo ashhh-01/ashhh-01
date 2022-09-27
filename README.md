@@ -6,7 +6,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="50" width="50"/><img src="<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="nodeJS" height="50" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodeJS" height="50" width="50"/>
 
 ---
 
