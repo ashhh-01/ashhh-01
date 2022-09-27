@@ -1,4 +1,4 @@
-- 👋 Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> I’m Ashrith MR
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> I’m Ashrith MR
 - 👀 Coding for Fun, I guess!
 - 🌱 I’m currently learning R programming 
 - 💞️ I’m looking to collaborate on ...
