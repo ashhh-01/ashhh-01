@@ -1,8 +1,16 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> I’m Ashrith MR
 - 👀 Coding for Fun, I guess!
-- 🌱 I’m currently learning R programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning R programming
+
+---
+
+🧰 Toolbox
+<img src="https://worldvectorlogo.com/logo/css-3" width=50px>
+
+---
+
+
+
 
 <!---
 ashhh-01/ashhh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
