@@ -16,7 +16,7 @@
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=blue-green&count_private=true&hide=contribs,prs,issues)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=blue-green&count_private=true&hide=contribs,prs,issues,stars)
 
 
 
