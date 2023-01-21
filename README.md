@@ -16,10 +16,10 @@
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=blue-green&count_private=true&hide=contribs,prs,issues,stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=blue-green&count_private=true&hide=contribs,prs,issues,stars)
 
-## CodeWars
-(https://www.codewars.com/users/ashhh-01/badges/small)
+## <img style="background-color:red;" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="18"> CodeWars
+![CodeWars](https://www.codewars.com/users/ashhh-01/badges/small)
 
 
 <!---
