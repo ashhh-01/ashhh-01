@@ -18,7 +18,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashhh-01&theme=blue-green&count_private=true&hide=contribs,prs,issues,stars)
 
-
+## CodeWars
+(https://www.codewars.com/users/ashhh-01/badges/small)
 
 
 <!---
