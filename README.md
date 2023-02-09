@@ -8,10 +8,10 @@
 
 ---
 🧰 Toolbox
-
+<div class="tools">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodeJS" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressJS" height="50" width="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" height="50" width="50"/><img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R" height="50" width="50"/><img style="background-color:red;" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="50" width="50"/>
-
+</div>
 
 ---
 
