@@ -2,9 +2,9 @@
 
 
 <div>
-  - 👀 Learning to code for fun, I guess!
+  -  Learning to code for fun, I guess!
   <br>
-  - 🌱 I’m currently learning R programming
+  -  I’m currently learning R programming
 </div>
 
 ---
