@@ -2,7 +2,7 @@
 
 
 <div>
-  -  Learning to code for fun, I guess!
+  -  Learning to code for fun!
   <br>
   -  I’m currently learning R programming
 </div>
